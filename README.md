@@ -1,2 +1,2 @@
 # GitTutorial
-Here I learn how to work with github and pyCharm combined
+Here I learn how to work with GitHub and pyCharm combined
