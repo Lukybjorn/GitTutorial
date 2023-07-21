@@ -1,7 +1,7 @@
+from tkinter import *
 
-def main():
-    print("New file")
+root = Tk()
 
+myButton = Button(root, text="Click Here!")
 
-if __name__ == '__main__':
-    main()
+root.mainloop()
